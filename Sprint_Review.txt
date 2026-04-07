@@ -1,0 +1,6 @@
+Sprint Review:
+The project was successfully completed.
+Features:
+- Product search
+- Login system
+- Deployment on Reflex Cloud

@@ -1,0 +1,7 @@
+Sprint Planning:
+We planned to build an AI-based product recommendation system using Reflex.
+Tasks included:
+- Data cleaning
+- UI development
+- Search functionality
+- Deployment

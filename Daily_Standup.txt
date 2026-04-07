@@ -1,0 +1,5 @@
+Daily Standup:
+Day 1: Setup environment and installed libraries
+Day 2: Implemented search functionality
+Day 3: Designed UI
+Day 4: Deployment and testing
